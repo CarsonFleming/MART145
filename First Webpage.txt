@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>Fishing Techniques</title>
+</head> 
+<body> 
+
+<h1>Fishing Techniques</h1> 
+
+<h2>Jigging</h2> 
+
+<p>
+Jigging is one of many techniques used in fishing. With jigging, if your are on a boat it is best to try to keep the boat as still as possible.
+When you are ready to setup your line to fish, tie a weight and a hook onto your line. You can also use jig heads, which combine the weight and the hook together. 
+Next, put some bait on your hook or hooks. This can be artificial, natural, or both. Once this is done, you are ready to start fishing. Drop your 
+hook, weight, and bait into the water and start releasing line. When the line starts to slow down or stop going out and there is slack in it then
+the weight, bait, and hook have probably reached the bottom of the body of water. After this, reel up about a foot of line. Finally, begin slowly lifting
+your rod tip up, then wait a few seconds before bringing it back down closer to the water. Now, just keep repeating this process until you catch a fish.
+</p>
+
+<img src="https://cdn.shopify.com/s/files/1/1837/7453/products/multi-tone-floating-FJHT2-BG_1024x1024@2x.jpg?v=1580153196" alt="jighead" style="width:250px;height:250px;">
+
+<h2>Trolling</h2> 
+
+<p>
+Another common fishing technique is trolling. With recreational trolling, the boat should be barely moving with a speed of about 1-2 MPH.
+There are a several techniques that can be used in trolling. One of these is similar to jigging. With this technique, you first tie a swivel onto the end of your line.
+Next, attach a special kind of weight onto the swivel called a 'bottom bouncer'. These weights have their own swivels that are already attached. After that,
+attach a 'harness' to the open swivel on the 'bottom bouncer'. A 'harness' is a piece of fishing line with decorations like colored beads and a blade that
+will spin around the line while it is in the water. At the end there will also be 1-3 single hooks. Fourth, put some bait on the hook or hooks. This can again be
+either natural or artificial. Some common natural baits for freshwater fishing are live minnows and earth worms. With this step completed, you should be ready
+to start fishing. Next, put the end of your line into the water and start releasing some line. As it is with jigging, once your line begins to slow down or stop
+going out, your weight has probably reached the bottom. However, with this kind of trolling you are supposed to leave it on the bottom until you catch a fish.
+Once your weight and bait are at the bottom and the slack has tightened, the tip of your rod usually begins to twitch and move a little as the weight drags on the bottom.
+Lastly, just keep an eye on your rod until you catch a fish and try to avoid catching any debris on the bottom by reeling up a little if your rod is bending too far. 
+</p>
+
+<img src="https://th.bing.com/th/id/R.07cfba42e42a8e12d6071faa7c0ef9c4?rik=Ph6nIH3Zp5okgw&riu=http%3a%2f%2fbloximages.chicago2.vip.townnews.com%2fsiouxcityjournal.com%2fcontent%2ftncms%2fassets%2fv3%2feditorial%2fb%2f48%2fb4814336-dd8b-52f8-a567-245ea6770c1c%2f55ba33c0bd571.image.jpg%3fresize%3d1200%252C1441&ehk=dYSUVNE%2bgMBHudwHxxVlQ6OQBTCgSP5%2fT77FxvRLEAQ%3d&risl=&pid=ImgRaw&r=0"
+alt="Bottom bouncer with harness" style="width:250px;height:300px;">
+
+<h2>Casting</h2> 
+
+<p>
+Casting is also one of the techniques used when fishing. Casting can be done from shore or from a boat. If it is done from a boat, the boat can be stationary or
+can be moving slowly like it does when you troll. First, you should tie a swivel onto your line. Next, put a kind of artificial bait called a crank bait on the swivel. Crank baits
+are meant to be cast out into the water. They come in several different shapes, sizes, and colors. Some of them also have a part on the front of them called a bill.
+This helps control how deep the crank bait will dive. In general, the bigger the bill is, the deeper it will dive. After you have your crank bait attached to your swivel,
+you can start fishing by simply casting the crank bait out. To do this, have about 2-3 inches of line between your swivel and rod tip. Then either 'trip the bail' or 
+push the button down on your reel so that it will release line but hold a finger over the line so it will not be released yet. Lastly, bring your rod to either your left or right
+side and make a fast flicking motion with the rod towards the opposite side of your body, taking your finger off the line to release it at about the end of the motion.
+Now, just reel the crank bait in and repeat this process until you catch a fish. 
+</p>
+
+<img src="https://images.squarespace-cdn.com/content/v1/53965e16e4b0c7f8f26369bb/057fcb1d-d2ab-406c-81c9-d0b693c0c072/Summer+Cranking+webb.jpg" alt="crankbaits" style="width:250px;height:150px;">
+
+<p>
+If you would like to learn more about these fishing techniques and others, click<a href="https://outdoortroop.com/top-12-types-of-fishing-techniques/">Here.</a>
+</p>
